@@ -4,10 +4,10 @@ import { motion, useInView } from 'framer-motion';
 const letterText = `Heyyy babyyyyyy ,
 
 I still remember how all of this started from the most random thing na ...darruuuuu ki bottle 😆🤣
-So funny hor something soo small can changed the way I live and became the besssttttest thing that has happened to me
+So funny how something soo small can change the way I live and became the besssttttest thing that has happened to me
 
-I know there were a lots of ups and downs but thennnn....
-Came 17th May ...The day we confessed or maybe stopperd pretending what we both felt 
+I know there were a lot of ups and downs but thennnn....
+Came 17th May ...The day we confessed or maybe stopped pretending what we both felt 
 
 Somehow u became my comfort place, My safest person to whom I can share anything, and one of the biggest reasons behind my smile 
 
