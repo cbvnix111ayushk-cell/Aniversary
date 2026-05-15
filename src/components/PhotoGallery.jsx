@@ -54,7 +54,7 @@ const PhotoGallery = () => {
             <motion.div
               key={photo.id}
               onClick={() => setSelectedPhoto(photo)}
-              className="min-w-[280px] md:min-w-[320px] snap-center bg-white p-3 pb-8 shadow-xl cursor-pointer relative group-item rounded-sm flex-shrink-0"
+              className="w-[280px] md:w-[320px] flex-shrink-0 snap-center bg-white p-3 pb-8 shadow-xl cursor-pointer relative group-item rounded-sm"
               style={{ rotate: photo.rotation }}
               whileHover={{ scale: 1.05, rotate: 0, zIndex: 50 }}
               transition={{ type: "spring", stiffness: 300, damping: 20 }}
