@@ -1,34 +1,32 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
 
-const letterText = `I still remember how all of this started from the most random thing ever… a snap of a daaru bottle 😭
+const letterText = `Heyyy babyyyyyy ,
 
-Funny how something so small somehow became the best thing that ever happened to me.
+I still remember how all of this started from the most random thing na ...darruuuuu ki bottle 😆🤣
+So funny hor something soo small can changed the way I live and became the besssttttest thing that has happened to me
 
-And then came 17th May — the day we stopped pretending and finally confessed what we both felt.
+I know there were a lots of ups and downs but thennnn....
+Came 17th May ...The day we confessed or maybe stopperd pretending what we both felt 
 
-You’ve become my comfort place, my safest person, and honestly one of the biggest reasons behind my smile every single day.
+Somehow u became my comfort place, My safest person to whom I can share anything, and one of the biggest reasons behind my smile 
 
-I know I’m not always good at expressing things properly. There’s always so much I want to say but somehow the words never come out the right way.
+Ik I'm not good at expressing things. There is always soo much that I want to say but the words never come out and it ends up getting worse 
 
-But one thing I need you to know is this:
+But one thing that I need u to know is this :
+No matter what happens. I'll never leave your side .
 
-No matter what happens, I’ll never leave your side.
+Even when the whole world feels against u. I'll be still there clapping for your smallest achievements like they mean everything cuz they actually do.
 
-Even when the whole world feels against you, I’ll still be there clapping for your smallest achievements like they mean everything — because to me, they actually do.
-
-Thank you for loving me the way you do.
+Thank you for loving me like u do.
 Thank you for making ordinary days feel special.
 
-And if I had to choose again, in every universe, every timeline, every lifetime…
+And if I had to choose again... In every universe, every timeline or even every lifetime...
+I'd still choose you without any single thought 
 
-I’d still choose you.
+Happyyyy 2 Yearsss Saanuuuuu💓
 
-Always you.
-
-Happy 2 Years Sanu ❤️
-
-— Ayush`;
+~Apka Nalayk sa Bacha Hehe 😈`;
 
 const LoveLetter = () => {
   const [displayedText, setDisplayedText] = useState('');

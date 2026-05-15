@@ -47,7 +47,7 @@ const Reasons = () => {
                   style={{ backfaceVisibility: 'hidden' }}
                 >
                   <div className="text-5xl mb-4 opacity-80">✨</div>
-                  <p className="text-rose-200 text-sm opacity-60">Tap to flip</p>
+                  <p className="text-rose-200 text-sm opacity-60">Hold to flip</p>
                 </div>
 
                 {/* Back */}
@@ -64,7 +64,7 @@ const Reasons = () => {
           ))}
         </motion.div>
       </motion.div>
-      <p className="text-white/40 text-sm mt-2 animate-pulse">Swipe & Tap cards</p>
+      <p className="text-white/40 text-sm mt-2 animate-pulse">Swipe & Hold cards</p>
     </section>
   );
 };
