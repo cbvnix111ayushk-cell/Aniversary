@@ -90,7 +90,7 @@ const LoveLetter = () => {
         className="glass-card max-w-2xl w-[90%] max-h-[80vh] overflow-y-auto p-6 md:p-12 relative z-10 box-glow"
       >
         <h2 className="text-2xl md:text-4xl font-serif font-bold text-center text-rose-300 mb-6 tracking-wider sticky top-0 bg-black/40 backdrop-blur-sm py-2 z-20 rounded-t-xl -mt-2 -mx-2">
-          To My Sanu ❤️
+          To My Sanuuuu ❤️
         </h2>
         
         <div className="font-serif text-base md:text-xl leading-relaxed text-rose-50/90 whitespace-pre-wrap">

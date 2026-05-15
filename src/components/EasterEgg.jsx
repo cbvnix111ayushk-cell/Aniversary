@@ -36,7 +36,7 @@ const EasterEgg = () => {
               >
                 <Heart size={48} className="text-rose-500 text-glow" fill="currentColor" />
               </motion.div>
-              <h2 className="text-3xl font-serif font-bold text-rose-50">I knew it ❤️</h2>
+              <h2 className="text-2xl md:text-3xl font-serif font-bold text-rose-50 text-center">I knew it hehe<br/>Ilooveeeyouuuumoreeee ❤️</h2>
               <button
                 onClick={() => setIsOpen(false)}
                 className="mt-4 px-6 py-2 rounded-full bg-rose-500/20 hover:bg-rose-500/40 border border-rose-500/50 transition-all duration-300"
